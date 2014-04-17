@@ -1,0 +1,10 @@
+{
+  "database": {
+    "host" : "localhost",
+    "port" : 27017,
+    "db" : "devDb"
+  },
+  "session" : {
+    "secret" : "devS3cr3t"
+  }
+}
